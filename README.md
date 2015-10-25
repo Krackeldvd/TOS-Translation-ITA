@@ -12,3 +12,6 @@ Grazie, ti preghiamo di inviarci il tuo supporto nell'interesse di Tree Of Savio
 5. In fondo alla pagina potrai osservare come funziona la traduzione del gioco in tempo reale.
 6. Non dimenticare di guardare la pagina della <a href="https://github.com/Treeofsavior/EnglishTranslation/wiki">Wiki</a> e successivamente di inviarci la tua traduzione
 
+<b>Tree of Savior Open Text Client (OTC)</b>
+
+
